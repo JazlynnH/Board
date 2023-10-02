@@ -1,0 +1,57 @@
+/* This is a CSS comment for you Information*
+
+/* Look at this pattern and thing in CSS get easy!
+
+selector{
+
+property: value;
+
+}
+
+*/
+
+
+/* Let's use CSS to style the body tag of any HTML that uses me, or refrences me */
+body{
+    /* Let's set the background color of the body tag to pink */
+    background-color:pink ;
+    /* Let's set the font color of the body tag to white */
+    color:azure;
+}
+
+/* Let's use CSS to style the Nav properties */
+nav{
+    /* Set the height of the nav bar to 600px */
+    height: 2000px;
+    /* width - set to 200px */
+    width: 200px;
+    /*float - set to left */
+    float: left;
+    /* padding - set to 5px */
+    padding: 5 px;
+    /* line-height - set to 30px */
+    line-height: 30px;
+}
+
+/* Let's use CSS  to design the footer properties */
+footer{
+    /* setting line-height to 20px as an adjustment */
+    line-height: 20px;
+    /* text-align - set to center */
+    text-align: center;
+    /*margin-right - set to 200 px */
+    margin-left: 50px;
+    margin-top: 200px;
+}
+
+/*Let's use CSS to style the memeImage properties */
+memeImage{
+    /*margin-right - set to 200px */
+    margin-right: 200px
+}
+
+/* Let's use CSS to style the header properties */
+header{
+    /* text-align - set to center */
+    text-align: left;
+}
